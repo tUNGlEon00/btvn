@@ -2,10 +2,10 @@ import java.util.Scanner;
 public class ptbac2 {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
-      double a = sc.nextDouble();
-      double b = sc.nextDouble();
-      double c = sc.nextDouble();
-      double delta, x1, x2;
+      Double a = sc.nextDouble();
+      Double b = sc.nextDouble();
+      Double c = sc.nextDouble();
+      Double delta, x1, x2;
       delta = b*b - 4*a*c;
       if (delta<0) 
            System.out.println(" pt vo nghiem ");
