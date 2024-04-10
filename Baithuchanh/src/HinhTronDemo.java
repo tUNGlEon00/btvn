@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HinhTron
+public class HinhTronDemo
 {
     public final float PI = 3.14f;
     public float banKinh;
@@ -29,7 +29,7 @@ public class HinhTron
 
       public static void main(String[] args) throws Exception 
       {
-        HinhTron ht = new HinhTron();
+        HinhTronDemo ht = new HinhTronDemo();
         ht.nhapBanKinh();
         ht.tinhCV();
         System.out.println(" thong tin cua ht la: ");
