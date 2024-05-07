@@ -35,5 +35,4 @@ public class hinhtron {
     {
         System.out.println(" dien tich la: "+dt);
     }
-
 }
