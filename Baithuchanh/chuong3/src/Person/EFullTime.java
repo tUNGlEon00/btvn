@@ -40,4 +40,5 @@ public class EFullTime extends employee {
     {
         System.out.println(" luong cua nhan vien "+ Ten +" o vi tri "+viTri+"="+luong);
     }
+    
 }

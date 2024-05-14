@@ -1,6 +1,7 @@
 package Person;
 import java.util.Scanner;
 
+
 public class employee extends person {
 
     public String maNV;

@@ -1,6 +1,7 @@
 package Person;
 import java.util.Scanner;
 
+
 public class EPartTime extends employee {
 
     public int luong;
