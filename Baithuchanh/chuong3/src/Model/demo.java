@@ -26,4 +26,5 @@ public class demo {
      linh0.xuatThongTin();
      ok.xuatThongTin();
     }
+    
 }

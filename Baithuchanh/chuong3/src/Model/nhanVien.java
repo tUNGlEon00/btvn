@@ -16,4 +16,5 @@ public class nhanVien {
         System.out.println(" thuoc loai nhan vien: "+loaiNhanVien());
         System.out.println(" luong: "+luong+" VND ");
     }    
+    
 }

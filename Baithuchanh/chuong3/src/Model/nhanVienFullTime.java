@@ -31,4 +31,5 @@ public class nhanVienFullTime extends nhanVien {
         if ( loaiChucVu == 0)  
             luong = Configs.LUONG_NHAN_VIEN_FULL_TIME_LINH + Configs.LUONG_LAM_THEM_MOI_NGAY * ngayLamThem ;
     } 
+    
 }
