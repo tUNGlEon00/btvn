@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class Slide47 {
     public static void main(String[] args) throws Exception {
             int so, tong = 0;

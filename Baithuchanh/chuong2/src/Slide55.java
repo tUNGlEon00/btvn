@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class Slide55 {
     public static void main(String[] args) throws Exception {
        System.out.println("cac so chia het cho 5: ");
