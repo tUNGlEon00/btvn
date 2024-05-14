@@ -1,5 +1,4 @@
 package Shape;
-
 import java.util.Scanner;
 
 public class hinhchunhat {

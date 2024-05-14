@@ -5,6 +5,7 @@ import Shape.hinhtron;
 
 public class MainClass {
     public static void main(String[] args){
+
             hinhchunhat hcn = new hinhchunhat();
             hinhtron ht = new hinhtron();
 
@@ -21,5 +22,6 @@ public class MainClass {
             ht.tinhDT();
             ht.inCV();
             ht.inDT();
+            
     }
 }
