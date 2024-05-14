@@ -37,4 +37,5 @@ public class HinhHoc {
         System.out.println(" the tich= "+theTich);
     }
 
+    
 }

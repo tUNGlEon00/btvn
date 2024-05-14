@@ -1,6 +1,7 @@
 package HINHHOC;
 import java.util.Scanner;
 
+
 public class HinhTru extends HinhTron {
 
     public float chieuCao;

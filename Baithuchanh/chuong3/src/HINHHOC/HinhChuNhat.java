@@ -1,6 +1,7 @@
 package HINHHOC;
 import java.util.Scanner;
 
+
 public class HinhChuNhat extends HinhHoc {
 
     public float dai;
