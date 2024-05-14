@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class person {
     public String hoTen;
     public String maCCCD;

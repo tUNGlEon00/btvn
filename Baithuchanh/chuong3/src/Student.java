@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class Student {
     public String hoTen;
     public int namSinh;
