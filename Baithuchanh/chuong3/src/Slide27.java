@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class Slide27 {
     float cv;
     float dientich;
