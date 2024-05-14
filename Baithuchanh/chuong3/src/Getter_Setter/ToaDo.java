@@ -1,6 +1,7 @@
 package Getter_Setter;
 
 public class ToaDo {
+
     private float x;
     private float y;
 
@@ -24,4 +25,5 @@ public class ToaDo {
     {
         this.y = y;
     }
+    
 }

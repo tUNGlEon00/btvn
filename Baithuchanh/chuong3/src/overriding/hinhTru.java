@@ -1,6 +1,7 @@
 package overriding;
 
 public class hinhTru extends hinhTron {
+    
     @Override
     public void xuatThongTin()
     {

@@ -1,6 +1,7 @@
 package Getter_Setter;
 
 public class hinhTron {
+
     private final float pi=3.14f;
     private int r;
     public int getR()
@@ -25,4 +26,5 @@ public class hinhTron {
         ht.tinhChuVi();
         ht.tinhDienTich();
     }
+    
 }

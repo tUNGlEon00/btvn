@@ -1,6 +1,7 @@
 package Getter_Setter;
 
 public class SinhVien {
+
     private String ten;
     private String tuoi;
     public String getTen()
@@ -42,4 +43,5 @@ public class SinhVien {
         System.out.println("Sv ten "+sv2.getTen()+" "+sv2.getTuoi()+" tuoi.");
 
     }
+    
 }
