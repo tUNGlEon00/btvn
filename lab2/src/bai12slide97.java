@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class bai12slide97 {
     public static void main(String[] args) throws Exception {
     Scanner sc=new Scanner(System.in);
