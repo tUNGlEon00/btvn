@@ -6,4 +6,5 @@ public class test {
         animal.eat();
         animal.run();
     }
+    
 }
