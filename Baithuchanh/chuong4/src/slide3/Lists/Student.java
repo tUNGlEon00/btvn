@@ -24,42 +24,20 @@ public class Student {
      System.out.println(" Tuoi: "+Age);
     }
     
-    public void themTT(String diaChi, int maCCCD)
+    public void themThongTin(String FullName, int Age)
     {
-     System.out.println(" Nhap dia chi: ");
-     diaChi = sc.nextLine();
-     System.out.println(" Nhap ma cccd: ");
-     maCCCD = sc.nextInt();
-     
-     System.out.println(" Them thong tin cua ban: ");
-     System.out.println(" Ten: "+FullName);
-     System.out.println(" Tuoi: "+Age);
-     System.out.println(" Dia Chi: "+diaChi);
-     System.out.println(" Ma so cccd: "+maCCCD);
+       this.FullName = FullName;
+       this.Age = Age;
     }
 
-    public void suaTT()
+    public void suaThongTin(String FullName, int Age ) {
+        this.FullName = FullName;
+        this.Age = Age;
+    }
+     public void NextL()
     {
-     System.out.println(" Thong tin can sua: ");
-     System.out.println(" Nhap lai ten: ");
-     FullName = sc.nextLine();
-     System.out.println(" Nhap lai tuoi: ");
-     Age = sc.nextInt();
-     System.out.println(" Nhap lai dia chi: ");
-     String diaChi = sc.nextLine();
-     System.out.println(" Nhap lai ma cccd: ");
-     int maCCCD = sc.nextInt();
-     
-     System.out.println(" Thong tin cua ban: ");
-     System.out.println(" Ten: "+FullName);
-     System.out.println(" Tuoi: "+Age);
-     System.out.println(" Dia Chi: "+diaChi);
-     System.out.println(" Ma so cccd: "+maCCCD);
+        sc.nextLine();
     }
+      
 
-    public static void main (String[] args){
-        Student s1 = new Student();
-        s1.nhapTT();
-        s1.xuatTT();
-    }
 }
