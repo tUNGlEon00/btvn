@@ -1,7 +1,9 @@
+package chuong2;
+
 import java.util.Scanner;
 
-public class bai4slide94 {
-    public static void main(String[] args) throws Exception {
+public class bai4s94 {
+     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
         int thang;
         do{
@@ -37,4 +39,4 @@ public class bai4slide94 {
         }
     
 }
-}    
+}

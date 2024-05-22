@@ -1,7 +1,9 @@
+package chuong2;
+
 import java.util.Scanner;
 
-public class bai3slide93 {
-    public static void main(String[] args) throws Exception {
+public class bai3s93 {
+     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner (System.in);
         System.out.println(" nhap ten: ");
         String ten= sc.nextLine();
@@ -18,4 +20,3 @@ public class bai3slide93 {
 
     }
 }
-

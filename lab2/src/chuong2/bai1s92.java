@@ -1,6 +1,8 @@
+package chuong2;
+
 import java.util.Scanner;
 
-public class bai1slide92 {
+public class bai1s92 {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
         double a,b;

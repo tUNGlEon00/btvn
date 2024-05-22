@@ -1,7 +1,9 @@
+package chuong2;
+
 import java.util.Scanner;
 
-public class bai12slide97 {
-    public static void main(String[] args) throws Exception {
+public class bai12s97 {
+      public static void main(String[] args) throws Exception {
     Scanner sc=new Scanner(System.in);
     int m, n;
     do

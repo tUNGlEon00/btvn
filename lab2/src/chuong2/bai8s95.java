@@ -1,6 +1,8 @@
+package chuong2;
+
 import java.util.Scanner;
 
-public class bai8slide95 {
+public class bai8s95 {
     public static void main(String[] args) throws Exception {
         int n;
         int s=0;
