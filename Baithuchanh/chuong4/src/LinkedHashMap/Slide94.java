@@ -15,4 +15,5 @@ public class Slide94 {
         hm.remove (101);
         System.out.println(" after invoking remove method: "  + hm );   
     }
+    
 }
