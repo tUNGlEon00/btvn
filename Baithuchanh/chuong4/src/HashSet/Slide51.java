@@ -19,4 +19,5 @@ public class Slide51 {
         // khai bao 1 hashset duoc tao thanh tu 1 collection khac
         HashSet <Float> hashSetFloat = new HashSet<>( new TreeSet<>() );
     }
+    
 }
