@@ -24,7 +24,7 @@ public class Slide69 {
 
         }else{
             System.out.println("Phan tu "+number+ "da ton tai ");
-        }sc.close();
+        }
 
     }
 }
